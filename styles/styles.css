@@ -1,0 +1,48 @@
+p {
+    color: red;
+  }
+
+#blue_text {
+    color: blue;
+}
+
+html {
+  font-size: 40px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
+  font-family: "Tangerine", serif; /* 这应该是你从 Google Fonts 得到的其余输出。 */
+  background-color: #00539f;  /* 背景颜色的设置 */
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black; /*用于设置字体的阴影*/
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+  font-family: "Times New Roman"
+}
+
+a {
+  font-size: 160px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  width: 600px; /*页面宽度设置*/
+  margin: 0 auto; 
+  background-color: #f4e9f2dd;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
