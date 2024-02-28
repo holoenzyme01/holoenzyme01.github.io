@@ -9,7 +9,7 @@ p {
 html {
   font-size: 40px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
   font-family: "Tangerine", serif; /* 这应该是你从 Google Fonts 得到的其余输出。 */
-  background-color: #00539f;  /* 背景颜色的设置 */
+  background-color: #ef0aae;  /* 背景颜色的设置 */
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #00539f;
+  color: #0edd4280;
   text-shadow: 3px 3px 1px black; /*用于设置字体的阴影*/
 }
 
@@ -28,6 +28,7 @@ li {
   letter-spacing: 1px;
   text-align: center;
   font-family: "Times New Roman"
+  
 }
 
 a {
